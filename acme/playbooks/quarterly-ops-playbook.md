@@ -29,6 +29,12 @@ A recurring checklist to plan, execute, and review quarterly operations. Keep th
 - Close out lingering admin items (POs, invoices, contract paperwork, access cleanup).
 - Lock the quarter’s artifact set (final metrics snapshot, decision log, retro notes, budget notes).
 
+## Vendors
+
+| Vendor     | Type      | Phone |
+|------------|-----------|-------|
+| cakes.com  | Catering  | 12345 |
+
 ## Next-Quarter Kickstart (Weeks 15–16)
 
 - Pre-wire next quarter: align on top risks, dependencies, and “must-not-slip” milestones.
